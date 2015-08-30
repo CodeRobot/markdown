@@ -1,7 +1,7 @@
 {
-  "name": "coderobot/php-markdown",
+  "name": "coderobot/markdown",
   "type": "library",
-  "description": "PHP Markdown",
+  "description": "Markdown",
   "homepage": "https://michelf.ca/projects/php-markdown/",
   "license": "BSD-3-Clause",
   "authors": [
